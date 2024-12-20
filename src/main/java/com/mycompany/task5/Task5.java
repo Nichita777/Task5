@@ -1,3 +1,28 @@
+/*
+
+Task 5: Bubble Sort - Sorting an Array
+Write a Java program to implement the Bubble Sort algorithm to sort an array of integers in
+ascending order. The program should:
+1. Accept the size of the array and the elements of the array as input.
+2. Sort the array using the Bubble Sort technique.
+3. Display the array before and after sorting.
+4. Count and display the total number of swaps performed during the sorting process.
+Example Input:
+Enter the size of the array: 6
+Enter the elements of the array: 5 3 8 6 2 7 
+
+
+
+*/
+/*
+
+Nichita Selchin , Student No : sba24331
+
+Repository link : https://github.com/Nichita777/Task5
+
+*/
+
+
 package com.mycompany.task5;
 import java.util.Scanner;
 
